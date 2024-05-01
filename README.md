@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on Some javascript projects
 - 💬 Ask me about Html, Css and javascript
 - 📫 How to reach me: [https://mnomanmirza1996@gmail.com]
-- markdown: [![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomi719)](https://github.com/Nomi719/github-readme-stats)
 - theme:![Noman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nomi719&show_icons=true&theme=radical)
 
   
